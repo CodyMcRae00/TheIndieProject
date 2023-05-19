@@ -1358,3 +1358,6 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.19-10.05.29:027][739]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
 [2023.05.19-10.05.29:027][739]MaterialEditorStats: Shader Count: 4
 [2023.05.19-10.05.35:707][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.05.19-10.06.53:788][  4]LogEditorViewport: Clicking Background
+[2023.05.19-10.07.33:212][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.05.19-10.07.36:458][113]LogEditorViewport: Clicking Background
